@@ -3,9 +3,9 @@ import math
 import matplotlib.pyplot as plt
 import numpy
 
-harmNumber = 14
+harmNumber = 12
 dotNumber = 64
-omegaMax = 2500
+omegaMax = 1100
 omegaInterval = omegaMax / harmNumber
 
 ampl = random.randint(1, 10)
